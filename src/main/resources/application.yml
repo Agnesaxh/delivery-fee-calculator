@@ -1,0 +1,10 @@
+server:
+  port: 9888
+
+delivery:
+  fee:
+    baseDistance: 1000
+    baseFeeFor1000m: 200
+    additionalFeePer500m: 100
+    maxDeliveryFee: 1500
+    cartValue200Euro: 20000
